@@ -11,6 +11,6 @@ To start this app change Mysql information in .env file
 Run this in your terminal
 
 ```
-php artisan serve command
+php artisan serve
 ```
 
